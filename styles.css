@@ -15,3 +15,31 @@
 .bg-color-main{
     background-color: #009fe3;
 }
+
+/* nosotros.html — paleta de marca */
+.page-nosotros .tp-service-area {
+    background-color: #F5F8FA;
+}
+
+.page-nosotros .tp-service-area h3.tp-section-title,
+.page-nosotros .tp-service-area h4.tp-ff-dm {
+    color: #073B57;
+}
+
+.page-nosotros .tp-service-area .tp-section-3-para {
+    color: #3D3D3D;
+    opacity: 1;
+}
+
+.page-nosotros .tp-service-area .tp-service-3-item {
+    background-color: #fff;
+    padding: 30px;
+    border: 1px solid #E1E8ED;
+    border-radius: 8px;
+    box-shadow: 0 10px 30px rgba(7, 59, 87, 0.08);
+}
+
+.page-nosotros .tp-service-area .tp-service-3-item p.tp-text-common-black {
+    color: #3D3D3D;
+}
+
